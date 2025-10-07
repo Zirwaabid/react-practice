@@ -1,10 +1,15 @@
 import { useState } from "react"
-import ShoppingCart from "./Day 1,2/ShoppingCart"
-
+import Counter from "./Day 3 (states)/Counter"
 function App() {
   return (
     <>
-<ShoppingCart/>
+      {/* <ShoppingCart/> */}
+      {/* <Sculpture /> */}
+      {/* <PointerPosition/> */}
+     {/* <Challenge3/> */}
+{/* <Challenge5/> */}
+<Counter/>
+     
     </>
   )
 }
