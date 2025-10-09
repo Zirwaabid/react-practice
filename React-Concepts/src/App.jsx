@@ -1,17 +1,10 @@
 import { useState } from "react"
-import Counter from "./Day 3 (states)/Counter"
-import TaskManager from "./Day 3 (states)/TaskManager/TaskManager"
+import Livepreview from "./Day 4 (Events)/Livepreview"
+
 function App() {
   return (
     <>
-      {/* <ShoppingCart/> */}
-      {/* <Sculpture /> */}
-      {/* <PointerPosition/> */}
-     {/* <Challenge3/> */}
-{/* <Challenge5/> */}
-{/* <Counter/> */}
-<TaskManager/>
-     
+    <Livepreview/>
     </>
   )
 }
