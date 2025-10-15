@@ -1,10 +1,9 @@
-import { useState } from "react"
-import Livepreview from "./Day 4 (Events)/Livepreview"
+import Connection from "./Day 5 (UseEffect)/Connection"
 
 function App() {
   return (
     <>
-    <Livepreview/>
+  <Connection/>
     </>
   )
 }
